@@ -1,0 +1,2 @@
+The app can be accessed at https://demomort.shinyapps.io/DecompoSexGap/
+To run them on your own computer, you would need to create a folder with "app.r" and the .csv sheet with decomposition results (see output folder) in it. Further, there need to be a subfolder names "wwww" where the .png file is saved.
